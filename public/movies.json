@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "title": "Dark Storm",
+    "title": "RRR",
     "image": "1.jpg",
     "genre": "drama",
     "rating": "8.3"
   },
   {
     "id": 2,
-    "title": "Whisper of Fate",
+    "title": "Baahubali: The Beginning",
     "image": "2.jpg",
     "genre": "fantasy",
     "rating": "7.7"
   },
   {
     "id": 3,
-    "title": "Beyond the Edge",
+    "title": "Pari",
     "image": "3.jpg",
     "genre": "horror",
     "rating": "6.3"
   },
   {
     "id": 4,
-    "title": "Lost in Shadows",
+    "title": "Sholay",
     "image": "4.jpg",
     "genre": "action",
     "rating": "9.3"
@@ -43,14 +43,14 @@
   },
   {
     "id": 7,
-    "title": "Fury's Flight",
+    "title": "Kahaani2",
     "image": "7.jpg",
     "genre": "action",
     "rating": "9.8"
   },
   {
     "id": 8,
-    "title": "Path of the Forgotten",
+    "title": "ACT-1978",
     "image": "8.jpg",
     "genre": "action",
     "rating": "7.2"
@@ -113,7 +113,7 @@
   },
   {
     "id": 17,
-    "title": "Timeless Myth",
+    "title": "RAID",
     "image": "17.jpg",
     "genre": "drama",
     "rating": "4.0"
@@ -127,7 +127,7 @@
   },
   {
     "id": 19,
-    "title": "Veil of Night",
+    "title": "Padmavati",
     "image": "19.jpg",
     "genre": "drama",
     "rating": "9.5"
