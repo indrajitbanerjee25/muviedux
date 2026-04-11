@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles.css';
 
-const MovieCard = ({ movie }) => {
+export default function MovieCard({ movie, isWatchlist, toggoleWatchList }) {
   const handleError = (e) => {
     e.target.src = '/images/default.jpg';
   };
@@ -20,13 +20,25 @@ const MovieCard = ({ movie }) => {
       />
       <div className='movie-card-info'>
         <h3 className='movie-card-title'>{movie.title}</h3>
-        <p className='movie-card-genre'>{movie.genre}</p>
-        <p className={`movie-card-rating ${getRatingClass(movie.rating)}`}>
-          {movie.rating}
-        </p>
+        <div>
+          <span className='movie-card-genre'>{movie.category}</span>
+          <span className={`movie-card-rating ${getRatingClass(movie.rating)}`}>
+            {movie.rating}
+          </span>
+          <label className='switch'>
+            <input
+              type='checkbox'
+              checked={isWatchlist}
+              onChange={() => toggoleWatchList(movie.id)}
+            ></input>
+            <span className='slider'>
+              <span className='slider-label'>
+                {isWatchlist ? 'In Watchlist' : 'Add to Watchlist'}
+              </span>
+            </span>
+          </label>
+        </div>
       </div>
     </div>
   );
-};
-
-export default MovieCard;
+}
