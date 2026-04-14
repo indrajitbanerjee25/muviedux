@@ -36,7 +36,7 @@
   },
   {
     "id": 6,
-    "title": "Grim Reckoning",
+    "title": "Kuch Kuch Hota Hai",
     "image": "6.jpg",
     "category": "Drama",
     "rating": "8.4"
@@ -57,58 +57,58 @@
   },
   {
     "id": 9,
-    "title": "Nightmare's Threshold",
+    "title": "Border",
     "image": "9.jpg",
     "category": "Horror",
     "rating": "1.7"
   },
   {
     "id": 10,
-    "title": "Eternal Hunt",
+    "title": "URI",
     "image": "10.jpg",
-    "category": "Fantasy",
+    "category": "Action",
     "rating": "7.5"
   },
   {
     "id": 11,
-    "title": "Legacy of the Void",
+    "title": "Artical 370",
     "image": "11.jpg",
     "category": "Action",
     "rating": "8.5"
   },
   {
     "id": 12,
-    "title": "Shadow's Crescent",
+    "title": "Dhurandhar",
     "image": "12.jpg",
-    "category": "Horror",
-    "rating": "7.5"
+    "category": "Action",
+    "rating": "9.5"
   },
   {
     "id": 13,
-    "title": "Crimson Dawn",
+    "title": "Hirak Rajar Deshe",
     "image": "13.jpg",
     "category": "Fantasy",
     "rating": "8.4"
   },
   {
     "id": 14,
-    "title": "Silent Kingdom",
+    "title": "Sonar Kella",
     "image": "14.jpg",
-    "category": "Fantasy",
-    "rating": "6.5"
+    "category": "Drama",
+    "rating": "9.1"
   },
   {
     "id": 15,
-    "title": "Mystic Rite",
+    "title": "Dasvi",
     "image": "15.jpg",
-    "category": "Fantasy",
-    "rating": "9.8"
+    "category": "Thriller",
+    "rating": "7.3"
   },
   {
     "id": 16,
-    "title": "Reign of the Lost",
+    "title": "Pather Panchali",
     "image": "16.jpg",
-    "category": "Horror",
+    "category": "Drama",
     "rating": "9.1"
   },
   {
@@ -120,10 +120,10 @@
   },
   {
     "id": 18,
-    "title": "Oath of the Fallen",
+    "title": "Debi",
     "image": "18.jpg",
-    "category": "Fantasy",
-    "rating": "6.3"
+    "category": "Drama",
+    "rating": "7.3"
   },
   {
     "id": 19,
@@ -137,6 +137,6 @@
     "title": "Bhoot",
     "image": "20.jpg",
     "category": "Horror",
-    "rating": "7.4"
+    "rating": "5.4"
   }
 ]
